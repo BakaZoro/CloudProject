@@ -1,3 +1,4 @@
+import boto3
 import socket                
 import subprocess
 def rem_punc(file):    
@@ -66,8 +67,6 @@ s.send(byt)
 print(s.recv(1024).decode())
 s.close()  
 
-
-# In[ ]:
 
 
 
