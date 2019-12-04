@@ -28,7 +28,6 @@ A program is run on a single cloud first and when the CPU utilisation in the VM 
 
 
 
-Note: Due to unavailabity to obtain accounts of different cloud service providers (Azure/GCP), simulation using instances from a single cloud service provider has been used.
 
 
 
